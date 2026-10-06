@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Rozliczenie projektu unijnego 2021–2027 dla firmy — od 199 zł miesięcznie</title>
+<meta name="description" content="Wgraj umowę o dofinansowanie, harmonogram i faktury — co miesiąc lista terminów (wnioski o płatność, zasada konkurencyjności, trwałość), sprawdzenie dokumentów i projekt wniosku o płatność do przeniesienia do CST2021. Stała cena od 199 zł miesięcznie zamiast prowizji od dotacji.">
+<link rel="icon" href="favicon.svg">
+<link rel="stylesheet" href="style.css">
+<script src="smoke.js" defer></script>
+</head>
+<body>
+
+<header><div class="wrap">
+  <div class="logo"><a href="index.html" data-ev="click_logo_home">Rozliczenie Projektu UE</a></div>
+  <nav class="top"><a href="#co" data-ev="click_nav_co">Co dostajesz</a><a href="#cena" data-ev="click_nav_cena">Cena</a><a href="#przyklad" data-ev="click_nav_przyklad">Przykład</a><a href="#start" data-ev="click_nav_start">Start</a></nav>
+</div></header>
+
+<div class="wrap">
+  <div class="hero">
+    <h1>Rozliczenie projektu unijnego 2021–2027 — terminy i dokumenty pod kontrolą co miesiąc</h1>
+    <p class="sub">Wgraj umowę o dofinansowanie, harmonogram i faktury — co miesiąc dostajesz listę terminów (wnioski o płatność, zapytania ofertowe w zasadzie konkurencyjności, trwałość projektu), sprawdzenie dokumentów i projekt wniosku o płatność do przeniesienia do CST2021. Stała cena miesięczna zamiast prowizji od dotacji.</p>
+    <a class="cta" href="#cena" data-ev="cta_click">Wybierz wielkość projektu — od 199 zł miesięcznie</a>
+    <p class="cta-note">Usługa w przygotowaniu · Nie pobieramy płatności na stronie</p>
+  </div>
+
+  <section id="co" data-view="features_view">
+    <h2>Co dostajesz</h2>
+    <div class="grid">
+      <div class="card"><b>Kalendarz obowiązków</b><span>Terminy wniosków o płatność, sprawozdań i okresu trwałości z Twojej umowy — przypomnienie z wyprzedzeniem.</span><br><a class="btn" href="pay.html?f=kalendarz" data-ev="feature_kalendarz">Wypróbuj</a></div>
+      <div class="card"><b>Sprawdzenie wydatków</b><span>Każda faktura przypisana do zadania i kategorii z budżetu projektu; brak opisu, protokołu lub dowodu zapłaty oznaczamy od razu.</span><br><a class="btn" href="pay.html?f=wydatki" data-ev="feature_wydatki">Wypróbuj</a></div>
+      <div class="card"><b>Zasada konkurencyjności</b><span>Sygnał, gdy zamówienie wymaga zapytania w Bazie Konkurencyjności — zanim wydatek stanie się niekwalifikowalny i trzeba będzie zwracać dotację.</span><br><a class="btn" href="pay.html?f=konkurencyjnosc" data-ev="feature_konkurencyjnosc">Wypróbuj</a></div>
+      <div class="card"><b>Projekt wniosku o płatność</b><span>Zestawienie wydatków i część sprawozdawcza do przeniesienia do CST2021. Wniosek składa i podpisuje beneficjent.</span><br><a class="btn" href="pay.html?f=wniosek" data-ev="feature_wniosek">Wypróbuj</a></div>
+    </div>
+  </section>
+
+  <section id="cena" data-view="price_view">
+    <h2>Wielkość projektu i cena</h2>
+    <div class="grid">
+      <div class="card"><b>Projekt do 1 mln zł dofinansowania</b><span>199 zł miesięcznie za projekt, przez cały okres realizacji.</span><br><a class="btn" href="pay.html?plan=do_1mln" data-ev="payment_click click_pay_do_1mln">Zapłać 199 zł</a></div>
+      <div class="card"><b>Projekt powyżej 1 mln zł dofinansowania</b><span>299 zł miesięcznie za projekt, przez cały okres realizacji.</span><br><a class="btn" href="pay.html?plan=powyzej_1mln" data-ev="payment_click click_pay_powyzej_1mln">Zapłać 299 zł</a></div>
+      <div class="card"><b>Okres trwałości</b><span>Po zakończeniu projektu — 49 zł miesięcznie: terminy, dokumenty do kontroli, sygnał przed zmianą, która narusza trwałość.</span><br><a class="btn" href="pay.html?plan=trwalosc" data-ev="payment_click click_pay_trwalosc">Zapłać 49 zł</a></div>
+    </div>
+    <p class="cmp">Firma doradcza podaje w cenniku prowizję zwykle od 1 do 5 % rozliczanej dotacji — przy 1 % i dotacji 968 tys. zł na 25 miesięcy to ok. 390 zł miesięcznie.</p>
+  </section>
+
+  <section id="przyklad" data-view="example_view">
+    <h2>Przykład (dane fikcyjne)</h2>
+    <p class="fine">Faktura 96 000 zł netto za linię pakującą z zadania 2 — zamówienie powyżej progu z Wytycznych: brak zapytania w Bazie Konkurencyjności, sygnał przed wnioskiem o płatność. Faktura 4 300 zł za szkolenie z zadania 3 — kwalifikuje się, brakuje listy obecności. Termin kolejnego wniosku o płatność pośrednią z umowy — 15 listopada: przypomnienie przychodzi 1 listopada.</p>
+    <a class="cta" href="#cena" data-ev="click_cta_after_example">Wybierz wielkość projektu</a>
+  </section>
+  <section id="start" data-view="start_view">
+    <h2>Wgraj umowę o dofinansowanie</h2>
+    <p><label>Program<br><select data-ev-focus="form_start" style="margin-top:6px;padding:8px;font-size:16px"><option value="">— wybierz —</option><option>FENG</option><option>Program regionalny</option><option>FERS</option><option>Inny</option></select></label></p>
+    <a class="cta" href="pay.html?intent=umowa" data-ev="form_submit_click">Wgraj umowę o dofinansowanie</a>
+  </section>
+</div>
+
+<footer><div class="wrap">
+  <p><a href="polityka.html" data-ev="click_legal_privacy">Polityka prywatności</a></p>
+  <p class="muted">Nie jesteśmy instytucją pośredniczącą ani wdrażającą, nie działamy w ich imieniu. Ocena wydatku to podpowiedź; decyzja i odpowiedzialność za rozliczenie projektu należą do beneficjenta.</p>
+</div></footer>
+
+</body>
+</html>
