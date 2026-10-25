@@ -1,0 +1,186 @@
+{
+ "смок": "projekt",
+ "кампания": "24346142363",
+ "снято": "19.10.2026, Google Ads API, «Смоки» (только чтение)",
+ "фразы": [
+  {
+   "группа": "Rozliczenie projektu UE",
+   "фраза": "rozliczanie dotacji unijnych",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "Rozliczenie projektu UE",
+   "фраза": "rozliczanie projektów unijnych",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "Rozliczenie projektu UE",
+   "фраза": "zasada konkurencyjności",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "Rozliczenie projektu UE",
+   "фраза": "rozliczenie dotacji unijnej",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "Rozliczenie projektu UE",
+   "фраза": "rozliczenie projektu unijnego",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "Rozliczenie projektu UE",
+   "фраза": "trwałość projektu",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "Rozliczenie projektu UE",
+   "фраза": "doradztwo projekty unijne",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "Rozliczenie projektu UE",
+   "фраза": "wniosek o płatność",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "Rozliczenie projektu UE",
+   "фраза": "korekta finansowa",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "Rozliczenie projektu UE",
+   "фраза": "firma rozliczająca projekty unijne",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "Rozliczenie projektu UE",
+   "фраза": "trwałość projektu unijnego",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "Rozliczenie projektu UE",
+   "фраза": "kontrola projektu unijnego",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "Rozliczenie projektu UE",
+   "фраза": "zwrot dotacji unijnej",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "Rozliczenie projektu UE",
+   "фраза": "obsługa projektów unijnych",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "Rozliczenie projektu UE",
+   "фраза": "wniosek o płatność końcową",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "Rozliczenie projektu UE",
+   "фраза": "wniosek o płatność cst2021",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "Rozliczenie projektu UE",
+   "фраза": "program do rozliczania projektów unijnych",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "Rozliczenie projektu UE",
+   "фраза": "fundusze europejskie rozliczenie",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "Rozliczenie projektu UE",
+   "фраза": "zapytanie ofertowe dotacja unijna",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "Rozliczenie projektu UE",
+   "фраза": "zwrot dotacji z odsetkami",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  }
+ ],
+ "минус_слова_группы": [],
+ "минус_слова_кампании": [
+  {
+   "фраза": "pdf",
+   "соответствие": "BROAD"
+  },
+  {
+   "фраза": "kurs",
+   "соответствие": "BROAD"
+  },
+  {
+   "фраза": "praca",
+   "соответствие": "BROAD"
+  },
+  {
+   "фраза": "oferty pracy",
+   "соответствие": "BROAD"
+  },
+  {
+   "фраза": "za darmo",
+   "соответствие": "BROAD"
+  },
+  {
+   "фраза": "wzór",
+   "соответствие": "BROAD"
+  },
+  {
+   "фраза": "szkolenie",
+   "соответствие": "BROAD"
+  },
+  {
+   "фраза": "darmowy",
+   "соответствие": "BROAD"
+  }
+ ],
+ "объявления": [
+  {
+   "группа": "Rozliczenie projektu UE",
+   "состояние": "ENABLED",
+   "ссылки": [
+    "https://projekt.dokuwell.com/?utm_source=google&utm_medium=cpc&utm_campaign=projekt"
+   ],
+   "заголовки": [
+    "Rozliczenie projektu UE",
+    "Wniosek o płatność bez stresu",
+    "Trwałość projektu pod kontrolą",
+    "Zasada konkurencyjności",
+    "Dla beneficjentów funduszy UE",
+    "Terminy i dokumenty w porządku",
+    "Uniknij korekty finansowej",
+    "Obsługa projektu unijnego"
+   ],
+   "описания": [
+    "Wnioski o płatność, trwałość i zasada konkurencyjności – wszystko w jednym miejscu.",
+    "Dla firm z dofinansowaniem z UE: terminy, dokumenty i raporty projektu bez chaosu.",
+    "Sprawdź, co jest potrzebne do rozliczenia Twojego projektu unijnego."
+   ]
+  }
+ ]
+}
